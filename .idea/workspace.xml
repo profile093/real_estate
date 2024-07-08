@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2fbee7b9-156f-41c0-8208-7a3a3b10f4fb" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/real_estate.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/items.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/middlewares.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/pipelines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/spiders/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/spiders/adentz_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/spiders/herbo_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/real_estate/spiders/kelm_immobilien_spider.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scrapy.cfg" afterDir="false" />
-    </list>
+    <list default="true" id="2fbee7b9-156f-41c0-8208-7a3a3b10f4fb" name="Changes" comment="committing" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -85,6 +67,15 @@
       <option name="presentableId" value="Default" />
       <updated>1719159172235</updated>
     </task>
+    <task id="LOCAL-00001" summary="committing">
+      <option name="closed" value="true" />
+      <created>1720442646932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1720442646932</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -97,5 +88,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="committing" />
+    <option name="LAST_COMMIT_MESSAGE" value="committing" />
   </component>
 </project>
