@@ -1,0 +1,420 @@
+{
+    "Country": {
+        "Germany": {
+            "Domain": {
+                "kelm-immobilien.de": [
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/grundstueck-wohngrundstueck-in-arnsberg-kaufen-7844-prvtx/",
+                        "title": "Baugrund mit Blick ins Tal!",
+                        "status": "\n\t59757 Arnsberg, Wohngrundstück",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716376571780/8f5f0450-ea43-4ff5-848c-15071d109b70-475x240.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-einfamilienhaus-in-arnsberg-kaufen-7898-prvtx/",
+                        "title": "Einziehen und sich um Heizungsgesetze keine Sorgen machen!",
+                        "status": "\n\t59757 Arnsberg, Einfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1717230647982/30586348-8012-4773-8ed8-0963a6fc2119-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-in-winterberg-kaufen-8008-prvtx/",
+                        "title": "Ehemalige Kirche – Gestalten Sie außergewöhnlichen Wohnraum, inkl. Turmzimmer!",
+                        "status": "\n\t59955 Winterberg, Haus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1717588912066/d7e77614-398e-4a62-9e73-8dd1dc23e8ab-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-zweifamilienhaus-in-meschede-kaufen-8011-prvtx/",
+                        "title": "Ein-Zweifamilienhaus in ländlicher Wohnlage von Meschede",
+                        "status": "\n\t59872 Meschede, Zweifamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716460587507/f9a92f59-0bd7-4699-baa6-97e2e695acdb-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/grundstueck-wohngrundstueck-in-arnsberg-kaufen-8014-prvtx/",
+                        "title": "Großes Baugrundstück in begehrter Lage von Arnsberg-Neheim",
+                        "status": "\n\t59755 Arnsberg, Wohngrundstück",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716459768042/fb1181bd-2111-4568-9c49-a487bbb78287-475x317.jpeg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-einfamilienhaus-in-arnsberg-kaufen-7992-prvtx/",
+                        "title": "Familienglück – Einfamilienhaus mit großem Grundstück",
+                        "status": "\n\t59755 Arnsberg, Einfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716449390829/9ebe14e1-df1d-4449-a51e-f82d53c94308-475x317.jpeg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-einfamilienhaus-in-olsberg-kaufen-8015-prvtx/",
+                        "title": "Großzügiges, freistehendes Haus mit vielen Möglichkeiten in Olsberg.",
+                        "status": "\n\t59939 Olsberg, Einfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1718365172654/0884e024-ff25-4a96-896b-3709107590a1-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-dachgeschosswohnung-in-arnsberg-kaufen-7953-prvtx/",
+                        "title": "Stilvolle und großzügige Dachgeschosswohnung mit Gestaltungsfreiraum",
+                        "status": "\n\t59821 Arnsberg, Dachgeschosswohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1718954981712/1d002522-9ec4-44a3-86d0-21f3bc533769-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-einfamilienhaus-in-arnsberg-kaufen-8001-prvtx/",
+                        "title": "Sanierungsbedürftiges Einfamilienhaus in gefragter Lage",
+                        "status": "\n\t59821 Arnsberg, Einfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1715858729869/6e5f6d07-8543-410c-9282-86f40e6e77fa-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-zweifamilienhaus-in-lippetal-kaufen-8005-prvtx/",
+                        "title": "Reihenendhaus mit viel Nutzungspotential",
+                        "status": "\n\t59510 Lippetal, Zweifamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716273697166/5081c2ad-e418-4337-a0c3-08e953dec83d-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-etagenwohnung-in-ahlen-kaufen-8010-prvtx/",
+                        "title": "Großzügige 4-Zimmer-Eigentumswohnung in Ahlen",
+                        "status": "\n\t59227 Ahlen, Etagenwohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1718782699970/577e76fe-6768-4efd-9290-f415a813b7fa-475x356.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-maisonettewohnung-in-arnsberg-kaufen-8012-prvtx/",
+                        "title": "Charmante Maisonette-Wohnung auf dem Schreppenberg",
+                        "status": "\n\t59821 Arnsberg, Maisonettewohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716884000943/151e7e82-e163-4d20-a270-bb8e2aeed430-475x321.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-loft-studio-atelier-in-arnsberg-kaufen-8013-prvtx/",
+                        "title": "Loft! – Exklusiv! – Modern!",
+                        "status": "\n\t59755 Arnsberg, Loft/Studio/Atelier",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1715944346009/4e20929b-16d4-47c2-9896-f9fa430bb001-475x356.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-mehrfamilienhaus-in-arnsberg-kaufen-7999-prvtx/",
+                        "title": "Top Kapitalanlage! Mehrfamilienhaus mit 7-Wohneinheiten in Neheim",
+                        "status": "\n\t59755 Arnsberg, Mehrfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1718693558429/a7f5a27a-a2cf-4dad-84ce-ffdca2e545f4-475x356.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-zweifamilienhaus-in-sundern-kaufen-8000-prvtx/",
+                        "title": "Vielfältiges Ein- bis Zweifamilienhaus auf großem Grundstück",
+                        "status": "\n\t59846 Sundern, Zweifamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1715690452833/e295f450-d5a9-48e9-b3f4-32ff57b6e47b-475x363.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-etagenwohnung-in-arnsberg-kaufen-7982-prvtx/",
+                        "title": "Kapitalanlage oder Eigennutzung – vermietete 3 – Zimmerwohnung",
+                        "status": "\n\t59755 Arnsberg, Etagenwohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716376307503/d7211c02-1f47-4a70-a3b6-e89019f37adc-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-zweifamilienhaus-in-sundern-stockum-kaufen-7974-prvtx/",
+                        "title": "Preissenkung! – Sanieren Sie Ihr neues Zuhause mit Planübernahme oder nach Ihrer Idee!",
+                        "status": "\n\t59846 Sundern - Stockum, Zweifamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1716370474946/fd58617c-e5aa-4836-99ea-a16dd8e2293f-475x356.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-einfamilienhaus-in-arnsberg-kaufen-7996-prvtx/",
+                        "title": "Ein- bis Zweifamilienhaus in ruhiger Waldrandlage",
+                        "status": "\n\t59759 Arnsberg, Einfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1713279288016/3883d0e5-f869-433b-937a-647e7316bcaa-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/grundstueck-wohngrundstueck-in-arnsberg-kaufen-7994-prvtx/",
+                        "title": "Grundstück auf Bergheim für Ihren Traum vom Eigenheim!",
+                        "status": "\n\t59757 Arnsberg, Wohngrundstück",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1713789340422/5b4f5dfd-033e-4655-9bb0-11329cc5aa5c-475x256.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-loft-studio-atelier-in-arnsberg-kaufen-7976-prvtx/",
+                        "title": "Moderne Loftwohnung im Zentrum von Arnsberg",
+                        "status": "\n\t59821 Arnsberg, Loft/Studio/Atelier",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1717590469907/c7634273-9df7-4223-872f-edf832af2708-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-zweifamilienhaus-in-arnsberg-kaufen-7940-prvtx/",
+                        "title": "Attraktives Zweifamilienhaus in Hüsten",
+                        "status": "\n\t59759 Arnsberg, Zweifamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1717590418709/b31a0692-4ccd-483c-9c76-87d21f22c1c6-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/grundstueck-wohngrundstueck-in-arnsberg-kaufen-7937-prvtx/",
+                        "title": "Preisreduzierung! – Ihre günstige Gelegenheit zu einem Baugrundstück!",
+                        "status": "\n\t59821 Arnsberg, Wohngrundstück",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1713428909337/f3aa6e70-0a7e-4e9a-b815-83bb61f2aeaf-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-loft-studio-atelier-in-arnsberg-kaufen-7975-prvtx/",
+                        "title": "Stylisches Loft, top-saniert und zentrumsnah",
+                        "status": "\n\t59821 Arnsberg, Loft/Studio/Atelier",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1717590491195/4ae543c1-06d5-4cad-9ff3-bdc660a7b7e1-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-zweifamilienhaus-in-arnsberg-kaufen-7997-prvtx/",
+                        "title": "Vielseitiges Zweifamilienhaus mit Panoramablick",
+                        "status": "\n\t59755 Arnsberg, Zweifamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1713856118348/231602f5-be0b-491d-a927-59a9e59c225d-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-doppelhaushaelfte-in-moehnesee-kaufen-7960-prvtx/",
+                        "title": "Ein Traum vom Eigenheim ganz nah am Möhnesee!",
+                        "status": "\n\t59519 Möhnesee, Doppelhaushälfte",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1715603388615/d59d3bd1-d873-4281-8e7a-670936e0b2f5-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-einfamilienhaus-in-arnsberg-kaufen-7851-prvtx/",
+                        "title": "Attraktives Einfamilienhaus mit großem Garten",
+                        "status": "\n\t59823 Arnsberg, Einfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1718358113625/31c788ec-50de-4f3b-bf77-3922996e26d5-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/buero-praxis-bueroflaeche-in-arnsberg-mieten-7835-prvtx/",
+                        "title": "Großzügige Gewerbeeinheit mitten in Neheim!",
+                        "status": "\n\t59755 Arnsberg, Bürofläche",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1677575284502/ef465c04-43ec-4207-a816-be5c85a3200c-475x346.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-einfamilienhaus-in-arnsberg-kaufen-7936-prvtx/",
+                        "title": "Ihr neues Zuhause in Neheim auf dem Dollberg?",
+                        "status": "\n\t59755 Arnsberg, Einfamilienhaus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1708344586856/15cfeabf-f3d5-4096-afd8-5ac9970fcaa5-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-etagenwohnung-in-arnsberg-kaufen-7912-prvtx/",
+                        "title": "Moderne Eigentumswohnung im Zentrum von Neheim!",
+                        "status": "\n\t59755 Arnsberg, Etagenwohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1707385264835/a515e5ca-92fa-4455-988e-f65a650ac71a-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-doppelhaushaelfte-in-dortmund-kaufen-7990-prvtx/",
+                        "title": "Hochwertige Doppelhaushälfte in der Gartenstadt!",
+                        "status": "\n\t44141 Dortmund, Doppelhaushälfte",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1717590525737/4d466d09-a070-40b8-aeed-49f497071c89-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-penthousewohnung-in-arnsberg-kaufen-7905-prvtx/",
+                        "title": "Penthouse der Extra-Klasse, Erstbezug! Provisionsfrei!",
+                        "status": "\n\t59821 Arnsberg, Penthousewohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1717590374957/129a8898-a7eb-498e-8f8c-29cc1750d9bf-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-eigentumswohnung-erdgeschosswohnung-in-arnsberg-kaufen-7985-prvtx/",
+                        "title": "Ein Traum: Barrierefrei und altersgerecht wohnen",
+                        "status": "\n\t59821 Arnsberg, Erdgeschosswohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1709919624317/62577c13-04ad-4fc4-98bd-561c5d4f6dea-475x316.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/wohnung-etagenwohnung-in-sundern-mieten-7939-prvtx/",
+                        "title": "Erstbezug nach Sanierung! Gehobene 4-Zimmer-Wohnung in Hachen zu vermieten",
+                        "status": "\n\t59846 Sundern, Etagenwohnung",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1715842548191/7b10577a-e4a8-4fd4-a1d5-563cf4028685-475x336.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    },
+                    {
+                        "url": "https://kelm-immobilien.de/immobilien/haus-in-meschede-kaufen-7978-prvtx/",
+                        "title": "Wohn- und Geschäftshaus mitten in Meschede",
+                        "status": "\n\t59872 Meschede, Haus",
+                        "pictures": [
+                            "https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1707403819901/fe66e0db-16d5-4ab0-92bf-b01d2bd01d7c-475x317.jpg"
+                        ],
+                        "rent_price": null,
+                        "description": "",
+                        "phone_number": "+49 2932 9417117",
+                        "email": "anfragen@kelm-immobilien.de"
+                    }
+                ]
+            }
+        }
+    }
+}{"url": "https://kelm-immobilien.de/immobilien/wohnung-etagenwohnung-in-sundern-mieten-7939-prvtx/", "title": "Erstbezug nach Sanierung! Gehobene 4-Zimmer-Wohnung in Hachen zu vermieten", "status": "\n\t59846 Sundern, Etagenwohnung", "pictures": ["https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1715842548191/7b10577a-e4a8-4fd4-a1d5-563cf4028685-475x336.jpg"], "rent_price": null, "description": "", "phone_number": "+49 2932 9417117", "email": "anfragen@kelm-immobilien.de"},
+{"url": "https://kelm-immobilien.de/immobilien/haus-in-meschede-kaufen-7978-prvtx/", "title": "Wohn- und Gesch\u00e4ftshaus mitten in Meschede", "status": "\n\t59872 Meschede, Haus", "pictures": ["https://kelm-immobilien.de/wp-content/uploads/immomakler/openimmo1707403819901/fe66e0db-16d5-4ab0-92bf-b01d2bd01d7c-475x317.jpg"], "rent_price": null, "description": "", "phone_number": "+49 2932 9417117", "email": "anfragen@kelm-immobilien.de"}
+]
